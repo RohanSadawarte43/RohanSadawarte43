@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in Web-Development, Data Science, C, C++, Java, Pyhton
+- 👀 I’m interested in Web-Development, Data Science, C, C++, Java, Python
 - 🌱 I’m currently learning Node.js, Deep Learning
 - 💞️ I’m looking to collaborate on projects in Web-Development, Data-Science
 - 📫 How to reach me Mail ID : rohansadawarte43@gmail.com
