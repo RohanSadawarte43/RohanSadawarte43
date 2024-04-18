@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Sadawarte</h1>
 
 - 👀 I’m interested in Software Development, Data Science, C, C++, Java, Python
-- 🌱 I’m currently learning systems
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on projects in Software Development, Systems and Data Science - ML
 - 📫 How to reach me Mail ID : rsadawarte@cs.stonybrook.edu
 
