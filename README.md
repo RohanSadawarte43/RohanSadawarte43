@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Sadawarte</h1>
 
-- 👀 I’m interested in Web-Development, Data Science, Flutter, C, C++, Java, Python
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on projects in Web-Development, Data-Science
-- 📫 How to reach me Mail ID : rohansadawarte43@gmail.com
+- 👀 I’m interested in Software Development, Data Science, C, C++, Java, Python
+- 🌱 I’m currently learning systems
+- 💞️ I’m looking to collaborate on projects in Software Development, Systems and Data Science - ML
+- 📫 How to reach me Mail ID : rsadawarte@cs.stonybrook.edu
 
 <!---
 rohrohrohr/rohrohrohr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
